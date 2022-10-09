@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>file/accounts.txt</file>
+        <file>file/config.json</file>
+        <file>file/down.png</file>
+        <file>file/up.png</file>
+    </qresource>
+</RCC>
